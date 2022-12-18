@@ -1,34 +1,12 @@
 
-ملاحظة: يجب تعبئة هذا الملف بمعلومات المشروع، يمكنك اختيار اللغة. تأكد من مسح اللغة الأخرى والتعليقات الجانبية 
-> ⬇️ تعبئة معلومات المشروع بالعربية  
-
-<div dir="rtl">
-  
-### اسم الطالب
-
-
-### اسم المشروع
-
-
-# شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
-
-
-# الأعمال المستقبلية
-
-
 </div>
 
-> Fill out project information in English ⬇️
-### Student Name
 
+Noura Almethin
 
-### Project Name
+YourBudget
 
-# Idea
-Problem and solutions if found 
+The website focuses on budget calculations, it calculates the expenses and the balance.
+(You can use this website as a note or a reminder of what you already paid and how much is left)
 
-
-# Future Work 
-
-
+in the future, it will also be able to calculate savings, and set purchase dates.
